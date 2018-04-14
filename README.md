@@ -1,0 +1,2 @@
+# SelfManagement
+//My projects collection
